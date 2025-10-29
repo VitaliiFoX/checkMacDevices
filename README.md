@@ -20,5 +20,5 @@
 ## 🔧 Збірка
 
 ```bash
-clang++ -std=c++17 io_inventory_pretty.cpp -o io_inv -framework IOKit -framework CoreFoundation
+clang++ -std=c++17 main.cpp -o io_inv -framework IOKit -framework CoreFoundation
 ```
